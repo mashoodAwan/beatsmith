@@ -317,3 +317,4 @@ Creates a downloadable audio file of your beat.
 ---
 
 *Made with BeatSmith - Browser-based beat making for everyone.*
+https://mashoodawan.github.io/beatsmith/
